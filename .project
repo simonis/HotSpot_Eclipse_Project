@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>jdk10-hs</name>
+	<name>jdk-hs</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -30,6 +30,16 @@
 			<type>2</type>
 			<locationURI>OUTPUT_ROOT/hotspot/variant-server/gensrc</locationURI>
 		</link>
+		<link>
+			<name>java.base_share</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/java.base/share/native/include</locationURI>
+		</link>
+		<link>
+			<name>java.base_unix</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/java.base/unix/native/include</locationURI>
+		</link>
 	</linkedResources>
 	<filteredResources>
 		<filter>
@@ -45,7 +55,7 @@
 	<variableList>
 		<variable>
 			<name>OUTPUT_ROOT</name>
-			<value>file:/share/output-jdk10-hs-dbg</value>
+			<value>file:/share/output-jdk-hs-dbg</value>
 		</variable>
 	</variableList>
 </projectDescription>
