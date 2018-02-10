@@ -1,5 +1,23 @@
 # My HotSpot project for Eclipse
 
+## For the impatient 
+
+Copy this repository into your HotSpot source tree (i.e. `<OpenJDK>/src/hotspot`):
+
+```
+wget https://github.com/simonis/HotSpot_Eclipse_Project/archive/master.zip
+unzip master.zip
+```
+
+Now you can import the project into Eclipse:
+
+```
+File -> Import -> General -> Existing Projects into Workspace -> un-click "Copy project into workspace"
+```
+Enjoy :)
+
+## For real developers
+
 Clone this repository right into your hostspot source tree. This can't be done directly, because the hotspot repository obviously already contains files. Here's how it works. First we clone this repository into an arbitrary location (called `${GIT_ROOT}` in this example):
 
 ```
