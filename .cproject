@@ -33,6 +33,7 @@
 									<listOptionValue builtIn="false" value="COMPILER1=1"/>
 									<listOptionValue builtIn="false" value="COMPILER2=1"/>
 									<listOptionValue builtIn="false" value="TARGET_ARCH_x86=1"/>
+									<listOptionValue builtIn="false" value="HOTSPOT_LIB_ARCH=amd64"/>
 									<listOptionValue builtIn="false" value="TARGET_COMPILER_gcc=1"/>
 									<listOptionValue builtIn="false" value="isnan=JUST_TO_PREVENT_INDEXER_ERRORS"/>
 									<listOptionValue builtIn="false" value="isnanf=JUST_TO_PREVENT_INDEXER_ERRORS"/>
@@ -43,6 +44,30 @@
 									<listOptionValue builtIn="false" value="INCLUDE_SUFFIX_COMPILER=_gcc"/>
 									<listOptionValue builtIn="false" value="DONT_USE_PRECOMPILED_HEADER=1"/>
 									<listOptionValue builtIn="false" value="VM_LITTLE_ENDIAN=1"/>
+									<listOptionValue builtIn="false" value="VERSION_STRING=internal.jdk-hs"/>
+									<listOptionValue builtIn="false" value="VERSION_FEATURE=10"/>
+									<listOptionValue builtIn="false" value="VERSION_INTERIM=0"/>
+									<listOptionValue builtIn="false" value="VERSION_UPDATE=0"/>
+									<listOptionValue builtIn="false" value="VERSION_PATCH=0"/>
+									<listOptionValue builtIn="false" value="VERSION_BUIILD=0"/>
+									<listOptionValue builtIn="false" value="VERSION_DEBUG_LEVEL=slowdebug"/>
+									<listOptionValue builtIn="false" value="HOTSPOT_VM_DISTRO=OpenJDK"/>
+								</option>
+								<option id="gnu.cpp.compiler.option.include.paths.749881039" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/precompiled}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_hotspot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_java.base}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/java.base_jimage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu/x86}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/linux}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu/linux_x86}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.1104530167" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
@@ -55,6 +80,7 @@
 									<listOptionValue builtIn="false" value="COMPILER1=1"/>
 									<listOptionValue builtIn="false" value="COMPILER2=1"/>
 									<listOptionValue builtIn="false" value="TARGET_ARCH_x86=1"/>
+									<listOptionValue builtIn="false" value="HOTSPOT_LIB_ARCH=amd64"/>
 									<listOptionValue builtIn="false" value="TARGET_COMPILER_gcc=1"/>
 									<listOptionValue builtIn="false" value="isnan=JUST_TO_PREVENT_INDEXER_ERRORS"/>
 									<listOptionValue builtIn="false" value="isnanf=JUST_TO_PREVENT_INDEXER_ERRORS"/>
@@ -65,6 +91,30 @@
 									<listOptionValue builtIn="false" value="INCLUDE_SUFFIX_COMPILER=_gcc"/>
 									<listOptionValue builtIn="false" value="DONT_USE_PRECOMPILED_HEADER=1"/>
 									<listOptionValue builtIn="false" value="VM_LITTLE_ENDIAN=1"/>
+									<listOptionValue builtIn="false" value="VERSION_STRING=internal.jdk-hs"/>
+									<listOptionValue builtIn="false" value="VERSION_FEATURE=10"/>
+									<listOptionValue builtIn="false" value="VERSION_INTERIM=0"/>
+									<listOptionValue builtIn="false" value="VERSION_UPDATE=0"/>
+									<listOptionValue builtIn="false" value="VERSION_PATCH=0"/>
+									<listOptionValue builtIn="false" value="VERSION_BUIILD=0"/>
+									<listOptionValue builtIn="false" value="VERSION_DEBUG_LEVEL=slowdebug"/>
+									<listOptionValue builtIn="false" value="HOTSPOT_VM_DISTRO=OpenJDK"/>
+								</option>
+								<option id="gnu.c.compiler.option.include.paths.418710747" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/precompiled}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_hotspot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_java.base}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/java.base_jimage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu/x86}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/linux}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu/linux_x86}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.1924198439" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
 							</tool>
@@ -82,8 +132,10 @@
 					</folderInfo>
 					<fileInfo id="cdt.managedbuild.toolchain.gnu.base.1261246038.2131762398.1547876489" name="killall" rcbsApplicability="disable" resourcePath="share/tools/IdealGraphVisualizer/nbplatform/ide/bin/nativeexecution/Linux-x86/killall" toolsToInvoke=""/>
 					<sourceEntries>
-						<entry excluding="generated|cpu/aarch64/|cpu/arm/|cpu/s390/|cpu/ppc/|cpu/sparc/|cpu/zero/|os/aix/|os/bsd/|os/solaris/|os/windows/|os_cpu/aix_ppc/|os_cpu/bsd_x86/|os_cpu/bsd_zero/|os_cpu/linux_aarch64/|os_cpu/linux_arm/|os_cpu/linux_s390/|os_cpu/linux_ppc/|os_cpu/linux_sparc/|os_cpu/linux_zero/|os_cpu/solaris_sparc/|os_cpu/solaris_x86/|os_cpu/windows_x86/|jdk.vm.ci/|share/vm/shark/|jdk.hotspot.agent/doc/|jdk.hotspot.agent/macosx/|jdk.hotspot.agent/scripts/|jdk.hotspot.agent/solaris/|jdk.hotspot.agent/test/|jdk.hotspot.agent/windows/|jdk.hotspot.agent/share/classes/|share/tools/IdealGraphVisualizer/|share/tools/LogCompilation/|share/vm/utilities/globalDefinitions_sparcWorks.hpp|share/vm/utilities/globalDefinitions_visCPP.hpp|share/vm/utilities/globalDefinitions_xlc.hpp|jdk.aot/|jdk.vm.compiler/|share/vm/trace/noTraceBackend.hpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
-						<entry excluding="dependencies/|extensions/|saclasses/|tracefiles/|adjust-mflags|agent.classes.list|platform.current|sa-jdi.jar|sun_jvm_hotspot_asm_Disassembler.h|sun_jvm_hotspot_debugger_aarch64_AARCH64ThreadContext.h|sun_jvm_hotspot_debugger_amd64_AMD64ThreadContext.h|sun_jvm_hotspot_debugger_bsd_BsdDebuggerLocal.h|sun_jvm_hotspot_debugger_linux_LinuxDebuggerLocal.h|sun_jvm_hotspot_debugger_ppc64_PPC64ThreadContext.h|sun_jvm_hotspot_debugger_proc_ProcDebuggerLocal.h|sun_jvm_hotspot_debugger_sparc_SPARCThreadContext.h|sun_jvm_hotspot_debugger_windbg_WindbgDebuggerLocal.h|sun_jvm_hotspot_debugger_x86_X86ThreadContext.h|adfiles/adlc|adfiles/*.o|jvmtifiles/*.log|jvmtifiles/*.cmdline|jvmtifiles/*.html" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="generated"/>
+						<entry excluding="generated_hotspot|generated_java.base|cpu/aarch64/|cpu/arm/|cpu/s390/|cpu/ppc/|cpu/sparc/|cpu/zero/|os/aix/|os/bsd/|os/solaris/|os/windows/|os_cpu/aix_ppc/|os_cpu/bsd_x86/|os_cpu/bsd_zero/|os_cpu/linux_aarch64/|os_cpu/linux_arm/|os_cpu/linux_s390/|os_cpu/linux_ppc/|os_cpu/linux_sparc/|os_cpu/linux_zero/|os_cpu/solaris_sparc/|os_cpu/solaris_x86/|os_cpu/windows_x86/|jdk.vm.ci/|jdk.hotspot.agent/doc/|jdk.hotspot.agent/macosx/|jdk.hotspot.agent/scripts/|jdk.hotspot.agent/solaris/|jdk.hotspot.agent/test/|jdk.hotspot.agent/windows/|jdk.hotspot.agent/share/classes/|share/tools/IdealGraphVisualizer/|share/tools/LogCompilation/|share/utilities/globalDefinitions_sparcWorks.hpp|share/utilities/globalDefinitions_visCPP.hpp|share/utilities/globalDefinitions_xlc.hpp|jdk.aot/|jdk.vm.compiler/|share/trace/noTraceBackend.hpp|share/adlc/" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="generated_hotspot"/>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="generated_java.base"/>
+						<entry excluding="*.cpp|endian.hpp|imageDecompressor.hpp|imageFile.hpp|inttypes.hpp|osSupport.hpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="java.base_jimage"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -119,6 +171,7 @@
 									<listOptionValue builtIn="false" value="LINUX=1"/>
 									<listOptionValue builtIn="false" value="COMPILER1=1"/>
 									<listOptionValue builtIn="false" value="COMPILER2=1"/>
+									<listOptionValue builtIn="false" value="HOTSPOT_LIB_ARCH=ppc64"/>
 									<listOptionValue builtIn="false" value="TARGET_COMPILER_gcc=1"/>
 									<listOptionValue builtIn="false" value="isnan=JUST_TO_PREVENT_INDEXER_ERRORS"/>
 									<listOptionValue builtIn="false" value="isnanf=JUST_TO_PREVENT_INDEXER_ERRORS"/>
@@ -130,6 +183,30 @@
 									<listOptionValue builtIn="false" value="DONT_USE_PRECOMPILED_HEADER=1"/>
 									<listOptionValue builtIn="false" value="PPC64=1"/>
 									<listOptionValue builtIn="false" value="TARGET_ARCH_ppc=1"/>
+									<listOptionValue builtIn="false" value="VERSION_STRING=internal.jdk-hs"/>
+									<listOptionValue builtIn="false" value="VERSION_FEATURE=10"/>
+									<listOptionValue builtIn="false" value="VERSION_INTERIM=0"/>
+									<listOptionValue builtIn="false" value="VERSION_UPDATE=0"/>
+									<listOptionValue builtIn="false" value="VERSION_PATCH=0"/>
+									<listOptionValue builtIn="false" value="VERSION_BUIILD=0"/>
+									<listOptionValue builtIn="false" value="VERSION_DEBUG_LEVEL=slowdebug"/>
+									<listOptionValue builtIn="false" value="HOTSPOT_VM_DISTRO=OpenJDK"/>
+								</option>
+								<option id="gnu.cpp.compiler.option.include.paths.153267321" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/precompiled}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_hotspot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_java.base}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/java.base_jimage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu/ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/linux}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu/linux_ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.1368071459" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
@@ -140,6 +217,7 @@
 									<listOptionValue builtIn="false" value="LINUX=1"/>
 									<listOptionValue builtIn="false" value="COMPILER1=1"/>
 									<listOptionValue builtIn="false" value="COMPILER2=1"/>
+									<listOptionValue builtIn="false" value="HOTSPOT_LIB_ARCH=ppc64"/>
 									<listOptionValue builtIn="false" value="TARGET_COMPILER_gcc=1"/>
 									<listOptionValue builtIn="false" value="isnan=JUST_TO_PREVENT_INDEXER_ERRORS"/>
 									<listOptionValue builtIn="false" value="isnanf=JUST_TO_PREVENT_INDEXER_ERRORS"/>
@@ -151,6 +229,30 @@
 									<listOptionValue builtIn="false" value="DONT_USE_PRECOMPILED_HEADER=1"/>
 									<listOptionValue builtIn="false" value="PPC64=1"/>
 									<listOptionValue builtIn="false" value="TARGET_ARCH_ppc=1"/>
+									<listOptionValue builtIn="false" value="VERSION_STRING=internal.jdk-hs"/>
+									<listOptionValue builtIn="false" value="VERSION_FEATURE=10"/>
+									<listOptionValue builtIn="false" value="VERSION_INTERIM=0"/>
+									<listOptionValue builtIn="false" value="VERSION_UPDATE=0"/>
+									<listOptionValue builtIn="false" value="VERSION_PATCH=0"/>
+									<listOptionValue builtIn="false" value="VERSION_BUIILD=0"/>
+									<listOptionValue builtIn="false" value="VERSION_DEBUG_LEVEL=slowdebug"/>
+									<listOptionValue builtIn="false" value="HOTSPOT_VM_DISTRO=OpenJDK"/>
+								</option>
+								<option id="gnu.c.compiler.option.include.paths.577275943" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/precompiled}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_hotspot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_java.base}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/java.base_jimage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu/ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/linux}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu/linux_ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.964946360" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
 							</tool>
@@ -167,8 +269,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="generated|cpu/aarch64/|cpu/arm/|cpu/s390/|cpu/x86/|cpu/sparc/|cpu/zero/|os/aix/|os/bsd/|os/solaris/|os/windows/|os_cpu/aix_ppc/|os_cpu/bsd_x86/|os_cpu/bsd_zero/|os_cpu/linux_aarch64/|os_cpu/linux_arm/|os_cpu/linux_s390/|os_cpu/linux_x86/|os_cpu/linux_sparc/|os_cpu/linux_zero/|os_cpu/solaris_sparc/|os_cpu/solaris_x86/|os_cpu/windows_x86/|jdk.vm.ci/|share/vm/shark/|jdk.hotspot.agent/doc/|jdk.hotspot.agent/macosx/|jdk.hotspot.agent/scripts/|jdk.hotspot.agent/solaris/|jdk.hotspot.agent/test/|jdk.hotspot.agent/windows/|jdk.hotspot.agent/share/classes/|share/tools/IdealGraphVisualizer/|share/tools/LogCompilation/|share/vm/utilities/globalDefinitions_sparcWorks.hpp|share/vm/utilities/globalDefinitions_visCPP.hpp|share/vm/utilities/globalDefinitions_xlc.hpp|jdk.aot/|jdk.vm.compiler/|share/vm/trace/noTraceBackend.hpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
-						<entry excluding="dependencies/|extensions/|saclasses/|tracefiles/|adjust-mflags|agent.classes.list|platform.current|sa-jdi.jar|sun_jvm_hotspot_asm_Disassembler.h|sun_jvm_hotspot_debugger_aarch64_AARCH64ThreadContext.h|sun_jvm_hotspot_debugger_amd64_AMD64ThreadContext.h|sun_jvm_hotspot_debugger_bsd_BsdDebuggerLocal.h|sun_jvm_hotspot_debugger_linux_LinuxDebuggerLocal.h|sun_jvm_hotspot_debugger_ppc64_PPC64ThreadContext.h|sun_jvm_hotspot_debugger_proc_ProcDebuggerLocal.h|sun_jvm_hotspot_debugger_sparc_SPARCThreadContext.h|sun_jvm_hotspot_debugger_windbg_WindbgDebuggerLocal.h|sun_jvm_hotspot_debugger_x86_X86ThreadContext.h|adfiles/adlc|adfiles/*.o|jvmtifiles/*.log|jvmtifiles/*.cmdline|jvmtifiles/*.html" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="generated"/>
+						<entry excluding="generated_hotspot|generated_java.base|cpu/aarch64/|cpu/arm/|cpu/s390/|cpu/x86/|cpu/sparc/|cpu/zero/|os/aix/|os/bsd/|os/solaris/|os/windows/|os_cpu/aix_ppc/|os_cpu/bsd_x86/|os_cpu/bsd_zero/|os_cpu/linux_aarch64/|os_cpu/linux_arm/|os_cpu/linux_s390/|os_cpu/linux_x86/|os_cpu/linux_sparc/|os_cpu/linux_zero/|os_cpu/solaris_sparc/|os_cpu/solaris_x86/|os_cpu/windows_x86/|jdk.vm.ci/|jdk.hotspot.agent/doc/|jdk.hotspot.agent/macosx/|jdk.hotspot.agent/scripts/|jdk.hotspot.agent/solaris/|jdk.hotspot.agent/test/|jdk.hotspot.agent/windows/|jdk.hotspot.agent/share/classes/|share/tools/IdealGraphVisualizer/|share/tools/LogCompilation/|share/utilities/globalDefinitions_sparcWorks.hpp|share/utilities/globalDefinitions_visCPP.hpp|share/utilities/globalDefinitions_xlc.hpp|jdk.aot/|jdk.vm.compiler/|share/trace/noTraceBackend.hpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="generated_hotspot"/>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="generated_java.base"/>
+						<entry excluding="*.cpp|endian.hpp|imageDecompressor.hpp|imageFile.hpp|inttypes.hpp|osSupport.hpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="java.base_jimage"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -204,6 +308,7 @@
 									<listOptionValue builtIn="false" value="LINUX=1"/>
 									<listOptionValue builtIn="false" value="COMPILER1=1"/>
 									<listOptionValue builtIn="false" value="COMPILER2=1"/>
+									<listOptionValue builtIn="false" value="HOTSPOT_LIB_ARCH=ppc64le"/>
 									<listOptionValue builtIn="false" value="TARGET_COMPILER_gcc=1"/>
 									<listOptionValue builtIn="false" value="isnan=JUST_TO_PREVENT_INDEXER_ERRORS"/>
 									<listOptionValue builtIn="false" value="isnanf=JUST_TO_PREVENT_INDEXER_ERRORS"/>
@@ -216,6 +321,30 @@
 									<listOptionValue builtIn="false" value="PPC64=1"/>
 									<listOptionValue builtIn="false" value="TARGET_ARCH_ppc=1"/>
 									<listOptionValue builtIn="false" value="VM_LITTLE_ENDIAN=1"/>
+									<listOptionValue builtIn="false" value="VERSION_STRING=internal.jdk-hs"/>
+									<listOptionValue builtIn="false" value="VERSION_FEATURE=10"/>
+									<listOptionValue builtIn="false" value="VERSION_INTERIM=0"/>
+									<listOptionValue builtIn="false" value="VERSION_UPDATE=0"/>
+									<listOptionValue builtIn="false" value="VERSION_PATCH=0"/>
+									<listOptionValue builtIn="false" value="VERSION_BUIILD=0"/>
+									<listOptionValue builtIn="false" value="VERSION_DEBUG_LEVEL=slowdebug"/>
+									<listOptionValue builtIn="false" value="HOTSPOT_VM_DISTRO=OpenJDK"/>
+								</option>
+								<option id="gnu.cpp.compiler.option.include.paths.886328281" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/precompiled}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_hotspot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_java.base}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/java.base_jimage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu/ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/linux}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu/linux_ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.882724400" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
@@ -226,6 +355,7 @@
 									<listOptionValue builtIn="false" value="LINUX=1"/>
 									<listOptionValue builtIn="false" value="COMPILER1=1"/>
 									<listOptionValue builtIn="false" value="COMPILER2=1"/>
+									<listOptionValue builtIn="false" value="HOTSPOT_LIB_ARCH=ppc64le"/>
 									<listOptionValue builtIn="false" value="TARGET_COMPILER_gcc=1"/>
 									<listOptionValue builtIn="false" value="isnan=JUST_TO_PREVENT_INDEXER_ERRORS"/>
 									<listOptionValue builtIn="false" value="isnanf=JUST_TO_PREVENT_INDEXER_ERRORS"/>
@@ -238,6 +368,30 @@
 									<listOptionValue builtIn="false" value="PPC64=1"/>
 									<listOptionValue builtIn="false" value="TARGET_ARCH_ppc=1"/>
 									<listOptionValue builtIn="false" value="VM_LITTLE_ENDIAN=1"/>
+									<listOptionValue builtIn="false" value="VERSION_STRING=internal.jdk-hs"/>
+									<listOptionValue builtIn="false" value="VERSION_FEATURE=10"/>
+									<listOptionValue builtIn="false" value="VERSION_INTERIM=0"/>
+									<listOptionValue builtIn="false" value="VERSION_UPDATE=0"/>
+									<listOptionValue builtIn="false" value="VERSION_PATCH=0"/>
+									<listOptionValue builtIn="false" value="VERSION_BUIILD=0"/>
+									<listOptionValue builtIn="false" value="VERSION_DEBUG_LEVEL=slowdebug"/>
+									<listOptionValue builtIn="false" value="HOTSPOT_VM_DISTRO=OpenJDK"/>
+								</option>
+								<option id="gnu.c.compiler.option.include.paths.424568464" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/precompiled}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_hotspot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_java.base}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/java.base_jimage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu/ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/linux}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu/linux_ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.165176232" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
 							</tool>
@@ -254,8 +408,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="generated|cpu/aarch64/|cpu/arm/|cpu/s390/|cpu/x86/|cpu/sparc/|cpu/zero/|os/aix/|os/bsd/|os/solaris/|os/windows/|os_cpu/aix_ppc/|os_cpu/bsd_x86/|os_cpu/bsd_zero/|os_cpu/linux_aarch64/|os_cpu/linux_arm/|os_cpu/linux_s390/|os_cpu/linux_x86/|os_cpu/linux_sparc/|os_cpu/linux_zero/|os_cpu/solaris_sparc/|os_cpu/solaris_x86/|os_cpu/windows_x86/|jdk.vm.ci/|share/vm/shark/|jdk.hotspot.agent/doc/|jdk.hotspot.agent/macosx/|jdk.hotspot.agent/scripts/|jdk.hotspot.agent/solaris/|jdk.hotspot.agent/test/|jdk.hotspot.agent/windows/|jdk.hotspot.agent/share/classes/|share/tools/IdealGraphVisualizer/|share/tools/LogCompilation/|share/vm/utilities/globalDefinitions_sparcWorks.hpp|share/vm/utilities/globalDefinitions_visCPP.hpp|share/vm/utilities/globalDefinitions_xlc.hpp|jdk.aot/|jdk.vm.compiler/|share/vm/trace/noTraceBackend.hpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
-						<entry excluding="dependencies/|extensions/|saclasses/|tracefiles/|adjust-mflags|agent.classes.list|platform.current|sa-jdi.jar|sun_jvm_hotspot_asm_Disassembler.h|sun_jvm_hotspot_debugger_aarch64_AARCH64ThreadContext.h|sun_jvm_hotspot_debugger_amd64_AMD64ThreadContext.h|sun_jvm_hotspot_debugger_bsd_BsdDebuggerLocal.h|sun_jvm_hotspot_debugger_linux_LinuxDebuggerLocal.h|sun_jvm_hotspot_debugger_ppc64_PPC64ThreadContext.h|sun_jvm_hotspot_debugger_proc_ProcDebuggerLocal.h|sun_jvm_hotspot_debugger_sparc_SPARCThreadContext.h|sun_jvm_hotspot_debugger_windbg_WindbgDebuggerLocal.h|sun_jvm_hotspot_debugger_x86_X86ThreadContext.h|adfiles/adlc|adfiles/*.o|jvmtifiles/*.log|jvmtifiles/*.cmdline|jvmtifiles/*.html" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="generated"/>
+						<entry excluding="generated_hotspot|generated_java.base|cpu/aarch64/|cpu/arm/|cpu/s390/|cpu/x86/|cpu/sparc/|cpu/zero/|os/aix/|os/bsd/|os/solaris/|os/windows/|os_cpu/aix_ppc/|os_cpu/bsd_x86/|os_cpu/bsd_zero/|os_cpu/linux_aarch64/|os_cpu/linux_arm/|os_cpu/linux_s390/|os_cpu/linux_x86/|os_cpu/linux_sparc/|os_cpu/linux_zero/|os_cpu/solaris_sparc/|os_cpu/solaris_x86/|os_cpu/windows_x86/|jdk.vm.ci/|jdk.hotspot.agent/doc/|jdk.hotspot.agent/macosx/|jdk.hotspot.agent/scripts/|jdk.hotspot.agent/solaris/|jdk.hotspot.agent/test/|jdk.hotspot.agent/windows/|jdk.hotspot.agent/share/classes/|share/tools/IdealGraphVisualizer/|share/tools/LogCompilation/|share/utilities/globalDefinitions_sparcWorks.hpp|share/utilities/globalDefinitions_visCPP.hpp|share/utilities/globalDefinitions_xlc.hpp|jdk.aot/|jdk.vm.compiler/|share/trace/noTraceBackend.hpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="generated_hotspot"/>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="generated_java.base"/>
+						<entry excluding="*.cpp|endian.hpp|imageDecompressor.hpp|imageFile.hpp|inttypes.hpp|osSupport.hpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="java.base_jimage"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -283,8 +439,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="generated|cpu/aarch64/|cpu/arm/|cpu/s390/|cpu/ppc/|cpu/sparc/|cpu/zero/|os/aix/|os/bsd/|os/solaris/|os/linux/|os_cpu/aix_ppc/|os_cpu/bsd_x86/|os_cpu/bsd_zero/|os_cpu/linux_aarch64/|os_cpu/linux_arm/|os_cpu/linux_s390/|os_cpu/linux_ppc/|os_cpu/linux_sparc/|os_cpu/linux_zero/|os_cpu/solaris_sparc/|os_cpu/solaris_x86/|os_cpu/linux_x86/|jdk.vm.ci/|share/vm/shark/|jdk.hotspot.agent/doc/|jdk.hotspot.agent/macosx/|jdk.hotspot.agent/scripts/|jdk.hotspot.agent/solaris/|jdk.hotspot.agent/test/|jdk.hotspot.agent/windows/|jdk.hotspot.agent/share/classes/|share/tools/IdealGraphVisualizer/|share/tools/LogCompilation/|share/vm/utilities/globalDefinitions_gcc.hpp|share/vm/utilities/globalDefinitions_sparcWorks.hpp|share/vm/utilities/globalDefinitions_xlc.hpp|jdk.aot/|jdk.vm.compiler/|share/vm/trace/noTraceBackend.hpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
-						<entry excluding="dependencies/|extensions/|saclasses/|tracefiles/|adjust-mflags|agent.classes.list|platform.current|sa-jdi.jar|sun_jvm_hotspot_asm_Disassembler.h|sun_jvm_hotspot_debugger_aarch64_AARCH64ThreadContext.h|sun_jvm_hotspot_debugger_amd64_AMD64ThreadContext.h|sun_jvm_hotspot_debugger_bsd_BsdDebuggerLocal.h|sun_jvm_hotspot_debugger_linux_LinuxDebuggerLocal.h|sun_jvm_hotspot_debugger_ppc64_PPC64ThreadContext.h|sun_jvm_hotspot_debugger_proc_ProcDebuggerLocal.h|sun_jvm_hotspot_debugger_sparc_SPARCThreadContext.h|sun_jvm_hotspot_debugger_windbg_WindbgDebuggerLocal.h|sun_jvm_hotspot_debugger_x86_X86ThreadContext.h|adfiles/adlc|adfiles/*.o|jvmtifiles/*.log|jvmtifiles/*.cmdline|jvmtifiles/*.html" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="generated"/>
+						<entry excluding="generated_hotspot|generated_java.base|cpu/aarch64/|cpu/arm/|cpu/s390/|cpu/ppc/|cpu/sparc/|cpu/zero/|os/aix/|os/bsd/|os/solaris/|os/linux/|os_cpu/aix_ppc/|os_cpu/bsd_x86/|os_cpu/bsd_zero/|os_cpu/linux_aarch64/|os_cpu/linux_arm/|os_cpu/linux_s390/|os_cpu/linux_ppc/|os_cpu/linux_sparc/|os_cpu/linux_zero/|os_cpu/solaris_sparc/|os_cpu/solaris_x86/|os_cpu/linux_x86/|jdk.vm.ci/|jdk.hotspot.agent/doc/|jdk.hotspot.agent/macosx/|jdk.hotspot.agent/scripts/|jdk.hotspot.agent/solaris/|jdk.hotspot.agent/test/|jdk.hotspot.agent/windows/|jdk.hotspot.agent/share/classes/|share/tools/IdealGraphVisualizer/|share/tools/LogCompilation/|share/utilities/globalDefinitions_gcc.hpp|share/utilities/globalDefinitions_sparcWorks.hpp|share/utilities/globalDefinitions_xlc.hpp|jdk.aot/|jdk.vm.compiler/|share/trace/noTraceBackend.hpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="generated_hotspot"/>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="generated_java.base"/>
+						<entry excluding="*.cpp|endian.hpp|imageDecompressor.hpp|imageFile.hpp|inttypes.hpp|osSupport.hpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="java.base_jimage"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

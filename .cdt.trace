@@ -1,0 +1,23 @@
+# Use this file for debugging the CDT indexer by calling 'eclipse -debug cdt.trace'
+# The output can be found on 'stdout' and in <workspace>/.metadata/.log 
+
+# Reports events related to setting up the indexer for a project
+org.eclipse.cdt.core/debug/indexer/setup=true
+
+# Reports sequence of files indexed
+org.eclipse.cdt.core/debug/indexer/activity=true
+
+# Reports statistics for indexer
+org.eclipse.cdt.core/debug/indexer/statistics=true
+
+# Reports unresolved inclusions for indexer
+org.eclipse.cdt.core/debug/indexer/problems/inclusion=true
+
+# Reports scanner-problems for indexer (other than unresolved includes)
+org.eclipse.cdt.core/debug/indexer/problems/scanner=true
+
+# Reports syntax-problems for indexer
+org.eclipse.cdt.core/debug/indexer/problems/syntax=true
+
+# Reports problems for indexer, including inclusion-, scanner-, syntax- and resolution-problems.
+org.eclipse.cdt.core/debug/indexer/problems=true

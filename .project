@@ -26,19 +26,19 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>generated</name>
+			<name>generated_hotspot</name>
 			<type>2</type>
 			<locationURI>OUTPUT_ROOT/hotspot/variant-server/gensrc</locationURI>
 		</link>
 		<link>
-			<name>java.base_share</name>
+			<name>generated_java.base</name>
 			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/java.base/share/native/include</locationURI>
+			<locationURI>OUTPUT_ROOT/support/modules_include/java.base</locationURI>
 		</link>
 		<link>
-			<name>java.base_unix</name>
+			<name>java.base_jimage</name>
 			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/java.base/unix/native/include</locationURI>
+			<locationURI>PARENT-1-PROJECT_LOC/java.base/share/native/libjimage</locationURI>
 		</link>
 	</linkedResources>
 	<filteredResources>
