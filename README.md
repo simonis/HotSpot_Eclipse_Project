@@ -5,8 +5,8 @@
 Copy this repository into your HotSpot source tree (i.e. `<OpenJDK>/src/hotspot`):
 
 ```
-wget https://github.com/simonis/HotSpot_Eclipse_Project/archive/master.zip
-unzip master.zip
+wget https://github.com/simonis/HotSpot_Eclipse_Project/archive/master.tar.gz
+tar --strip 1 -xzf master.tar.gz
 ```
 
 Import the project into Eclipse:
