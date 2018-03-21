@@ -55,20 +55,20 @@
 									<listOptionValue builtIn="false" value="HOTSPOT_VM_DISTRO=&quot;OpenJDK&quot;"/>
 								</option>
 								<option id="gnu.cpp.compiler.option.include.paths.749881039" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/precompiled}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/include}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_hotspot}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_java.base}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/java.base_jimage}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu/x86}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/linux}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu/linux_x86}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os_cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share/precompiled}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/generated_hotspot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/generated_java.base}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/java.base_jimage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/cpu/x86}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/posix}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/linux}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os_cpu/linux_x86}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/posix/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.1104530167" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
@@ -103,20 +103,20 @@
 									<listOptionValue builtIn="false" value="HOTSPOT_VM_DISTRO=&quot;OpenJDK&quot;"/>
 								</option>
 								<option id="gnu.c.compiler.option.include.paths.418710747" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/precompiled}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/include}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_hotspot}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_java.base}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/java.base_jimage}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu/x86}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/linux}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu/linux_x86}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os_cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share/precompiled}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/generated_hotspot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/generated_java.base}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/java.base_jimage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/cpu/x86}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/posix}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/linux}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os_cpu/linux_x86}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/posix/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.1924198439" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
 							</tool>
@@ -196,20 +196,20 @@
 									<listOptionValue builtIn="false" value="HOTSPOT_VM_DISTRO=&quot;OpenJDK&quot;"/>
 								</option>
 								<option id="gnu.cpp.compiler.option.include.paths.153267321" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/precompiled}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/include}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_hotspot}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_java.base}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/java.base_jimage}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu/ppc}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/linux}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu/linux_ppc}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os_cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share/precompiled}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/generated_hotspot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/generated_java.base}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/java.base_jimage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/cpu/ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/posix}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/linux}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os_cpu/linux_ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/posix/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.1368071459" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
@@ -243,20 +243,20 @@
 									<listOptionValue builtIn="false" value="HOTSPOT_VM_DISTRO=&quot;OpenJDK&quot;"/>
 								</option>
 								<option id="gnu.c.compiler.option.include.paths.577275943" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/precompiled}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/include}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_hotspot}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_java.base}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/java.base_jimage}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu/ppc}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/linux}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu/linux_ppc}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os_cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share/precompiled}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/generated_hotspot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/generated_java.base}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/java.base_jimage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/cpu/ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/posix}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/linux}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os_cpu/linux_ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/posix/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.964946360" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
 							</tool>
@@ -336,20 +336,20 @@
 									<listOptionValue builtIn="false" value="HOTSPOT_VM_DISTRO=&quot;OpenJDK&quot;"/>
 								</option>
 								<option id="gnu.cpp.compiler.option.include.paths.886328281" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/precompiled}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/include}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_hotspot}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_java.base}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/java.base_jimage}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu/ppc}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/linux}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu/linux_ppc}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os_cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share/precompiled}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/generated_hotspot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/generated_java.base}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/java.base_jimage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/cpu/ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/posix}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/linux}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os_cpu/linux_ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/posix/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.882724400" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
@@ -384,20 +384,20 @@
 									<listOptionValue builtIn="false" value="HOTSPOT_VM_DISTRO=&quot;OpenJDK&quot;"/>
 								</option>
 								<option id="gnu.c.compiler.option.include.paths.424568464" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/precompiled}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/share/include}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_hotspot}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/generated_java.base}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/java.base_jimage}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/cpu/ppc}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/linux}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os_cpu/linux_ppc}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/jdk-hs/os/posix/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os_cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/cpu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share/precompiled}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/share/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/generated_hotspot}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/generated_java.base}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/java.base_jimage}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/cpu/ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/posix}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/linux}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os_cpu/linux_ppc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/os/posix/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.165176232" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
 							</tool>
